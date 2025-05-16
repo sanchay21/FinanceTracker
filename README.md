@@ -1,2 +1,2 @@
-# FinanceTracker
+# FinTrack
 AI Powered Personal Finance Tracker
